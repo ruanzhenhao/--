@@ -1,4 +1,4 @@
-# 智慧职教刷课脚本
+# 智慧职教自动化学习脚本
 
 1.打开automation_learn_icve文件夹，打开dist文件夹，打开main文件夹，打开_internal文件夹，打开data文件夹，打开userData，输入账号密码
 
